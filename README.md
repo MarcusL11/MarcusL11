@@ -8,7 +8,6 @@ Django developer in training, on the journey of coding and creating things.
 
 * 🌍 I'm based in Bangkok, Thailand
 * 🖥️ See my portfolio at [marcuscodex.xyz](http://themarcuscodex.xyz)
-* ✉️ You can contact me at [marclert@gmail.com](mailto:marclert@gmail.com)
 * 🚀 I'm currently working on [A NFT Chia Blockchain Game called Chamster](http://chamsterchia.com)
 * 🧠 I'm learning Django, Python, Webflow, JavaScript
 * 🤝 I'm open to collaborating on anything built on Django :)
