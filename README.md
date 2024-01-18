@@ -7,7 +7,7 @@ Django developer in training, on the journey of coding and creating things.
 - AI & Robotics
 
 * 🌍 I'm based in Bangkok, Thailand
-* 🖥️ See my portfolio at [marcuscodex.xyz](http://themarcuscodex.xyz)
+* 🖥️ See my blog at [marcuscodex.xyz](http://themarcuscodex.xyz)
 * 🚀 I'm currently working on [A NFT Chia Blockchain Game called Chamster](http://chamsterchia.com)
 * 🧠 I'm learning Django, Python, Webflow, JavaScript
 * 🤝 I'm open to collaborating on anything built on Django :)
