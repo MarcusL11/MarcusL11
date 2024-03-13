@@ -1,17 +1,18 @@
 # Hi 👋 My name is Marcus
 ## Newbie Web Developer
 
-Django developer in training, on the journey of coding and creating things. 
-- Cryptocurrency
-- Startups & Coding
+Django developer in training, on the journey of coding and creating things. My Interest are:
+- Blockchain
+- Web Development
+- Venture Building
 - AI & Robotics
+- Golf
 
 * 🌍 I'm based in Bangkok, Thailand
-* 🖥️ See my blog at [marcuscodex.xyz](http://themarcuscodex.xyz)
-* 🚀 I'm currently working on [A NFT Chia Blockchain Game called Chamster](http://chamsterchia.com)
-* 🧠 I'm learning Django, Python, Webflow, JavaScript
+* 🖥️ See my blog at
+* 🧠 I'm learning Django, Python, JavaScript
 * 🤝 I'm open to collaborating on anything built on Django :)
-* ⚡ Love coding and golfing on my free time
+
 
 ### Skills
 
