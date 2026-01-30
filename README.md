@@ -32,16 +32,15 @@ I specialize in constructing reliable and scalable server-side systems.
 
 ## 💡 Featured Project: Bookids
 
->[!NOTE]
-> To add images 
+### **AI-Powered Personalized Children's Book Platform**
 
-### **Personalized Children Book Platform**
+A production Django SaaS for creating and printing personalized, illustrated children's storybooks. Combines AI-powered content generation with e-commerce and print-on-demand fulfillment.
 
-A  **Django platform**  built for for the on-demand creation of personalized, illustrated children's storybooks. This project combines complex AI workflows with a scalable, transactional backend.
+**Technical Highlights:**
 
-**Key Features & Technical Expertise:**
+* **AI Content Generation:** Multi-provider integration (OpenAI, Google Gemini) via PydanticAI for text and illustration generation with structured output validation
+* **Dual Commerce System:** SaaS subscriptions + e-commerce shop with Stripe, webhook automation, and Peecho print-on-demand API
+* **Real-time Architecture:** Server-Sent Events (SSE) for live job status, background job orchestration with cooperative cancellation
+* **Production Infrastructure:** AWS S3 multi-bucket storage, PostgreSQL, RESTful API (Django Ninja) with OpenAPI docs and rate limiting
 
-* **AI Content Pipeline:** Integrated multiple text and image generation AI services for creating fully unique, custom-illustrated narratives.
-* **Scalability:** Implemented a multi-app Django architecture with dedicated database management and a **Celery** task queue to handle resource-intensive background processing (content generation, rendering).
-* **Monetization & Delivery:** Integrated **Stripe** for payment processing and utilized a professional PDF rendering engine to deliver print-ready digital assets.
-* **Dynamic UX:** Built a highly dynamic user experience using the **HTMX** hypermedia library, maximizing application speed and developer efficiency.
+**Stack:** Django 6.0 • Python 3.13 • PostgreSQL • PydanticAI • Tailwind CSS 4 • AWS S3 • Stripe
