@@ -2,7 +2,7 @@
 
 ## **Full-Stack Engineer | Hypermedia Architect**
 
-I am an experienced **Full-Stack Engineer** specializing in robust, **backend-heavy applications** with a strong focus on **Hypermedia-Driven architecture**.
+I am an experienced **Full-Stack Engineer** specializing in **backend-heavy applications** with a focus on **Hypermedia-Driven architecture**.
 
 ---
 
@@ -20,13 +20,12 @@ I am an experienced **Full-Stack Engineer** specializing in robust, **backend-he
 I specialize in constructing reliable and scalable server-side systems.
 
 * **Frameworks:** **Django**, Flask
-* **APIs:** Django Rest Framework (DRF)
-* **Asynchronous Tasks:** Celery, Redis,
+* **APIs:** Django Rest Framework (DRF), Django Ninja
+* **Asynchronous Tasks:** Celery, Redis, Chancy
 
 ### 🚀 Hypermedia Frontend
 
 * **HDA Tools:** HTMX, Datastar,
-* **Styling:** Tailwind CSS (utility-first design)
 
 ---
 
