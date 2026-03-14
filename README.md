@@ -1,8 +1,8 @@
 # 💻 Hi! I'm Marcus
 
-## **Full-Stack Engineer | Hypermedia Architect**
+## **Full-Stack Python Engineer
 
-I am an experienced **Full-Stack Engineer** specializing in **backend-heavy applications** with a focus on **Hypermedia-Driven architecture**.
+I am a Full-Stack Engineer specializing in backend-heavy applications with a focus on Hypermedia-Driven web apps.
 
 ---
 
@@ -13,13 +13,11 @@ I am an experienced **Full-Stack Engineer** specializing in **backend-heavy appl
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | Python, JavaScript, SQL, C, HTML, CSS |
-| **Data & Persistence** | PostgreSQL, Redis (for caching/queues) |
+| **Data & Persistence** | PostgreSQL, Redis |
 
 ### 🧠 Backend Infrastructure
 
-I specialize in constructing reliable and scalable server-side systems.
-
-* **Frameworks:** **Django**, Flask
+* **Preferred Frameworks:** **Django**
 * **APIs:** Django Rest Framework (DRF), Django Ninja
 * **Asynchronous Tasks:** Celery, Redis, Chancy
 
