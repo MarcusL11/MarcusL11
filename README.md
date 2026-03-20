@@ -25,6 +25,7 @@ I build backend-heavy web applications with a focus on hypermedia-driven archite
 
 ## Featured Project: Bookids
 
+www.bookids.io
 **Personalized children's books publishing platform** — parents upload a photo, choose a story, and receive a printed book with an illustrations of their child.
 
 [View Architecture Showcase](https://github.com/MarcusL11/bookids-showcase)
