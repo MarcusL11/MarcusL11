@@ -13,12 +13,12 @@ I build backend-heavy web applications with a focus on hypermedia-driven archite
 | **Languages** | Python, JavaScript, SQL, HTML, CSS |
 | **Framework** | Django 6.0 |
 | **APIs** | Django Ninja, Django REST Framework |
-| **Frontend** | Datastar (SSE), DaisyUI, TailwindCSS |
-| **Components** | Django-Cotton (server-rendered) |
-| **Background Jobs** | Chancy (PostgreSQL-backed), Celery |
+| **Frontend** | Datastar, HTMX, DaisyUI, TailwindCSS |
+| **Components** | Django-Cotton |
+| **Background Jobs** | Chancy, Celery |
 | **Database** | PostgreSQL |
 | **Cloud** | AWS S3, Render |
-| **Payments** | Stripe (dj-stripe) |
+| **Payments** | Stripe |
 | **AI** | OpenAI Images API |
 
 ---
