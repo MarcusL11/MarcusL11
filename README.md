@@ -1,43 +1,49 @@
-# 💻 Hi! I'm Marcus
+# Hi! I'm Marcus
 
-## **Full-Stack Python Engineer
+## Full-Stack Python Engineer
 
-I am a Full-Stack Engineer specializing in backend-heavy applications with a focus on Hypermedia-Driven web apps.
+I build backend-heavy web applications with a focus on hypermedia-driven architecture — real-time UX without JavaScript frameworks.
 
 ---
 
-## 🛠️ Technology Stack & Expertise
+## Technology Stack
 
-### 🌐 Core Languages & Data
-
-| Category | Tools & Languages |
+| Category | Tools |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, SQL, C, HTML, CSS |
-| **Data & Persistence** | PostgreSQL, Redis |
-
-### 🧠 Backend Infrastructure
-
-* **Preferred Frameworks:** **Django**
-* **APIs:** Django Rest Framework (DRF), Django Ninja
-* **Asynchronous Tasks:** Celery, Redis, Chancy
-
-### 🚀 Hypermedia Frontend
-
-* **HDA Tools:** HTMX, Datastar,
+| **Languages** | Python, JavaScript, SQL, HTML, CSS |
+| **Framework** | Django 6.0 |
+| **APIs** | Django Ninja, Django REST Framework |
+| **Frontend** | Datastar (SSE), DaisyUI, TailwindCSS |
+| **Components** | Django-Cotton (server-rendered) |
+| **Background Jobs** | Chancy (PostgreSQL-backed) |
+| **Database** | PostgreSQL |
+| **Cloud** | AWS S3, Render |
+| **Payments** | Stripe (dj-stripe) |
+| **AI** | OpenAI Images API |
 
 ---
 
-## 💡 Featured Project: Bookids
+## Featured Project: Bookids
 
-### **AI-Powered Personalized Children's Book Platform**
+**AI-powered SaaS for personalized children's books** — parents upload a photo, choose a story, and receive a printed book with AI-generated illustrations of their child.
 
-A production Django SaaS for creating and printing personalized, illustrated children's storybooks. Combines AI-powered content generation with e-commerce and print-on-demand fulfillment.
+[View Architecture Showcase](https://github.com/MarcusL11/bookids-showcase)
 
-**Technical Highlights:**
+**Built with:**
+Django 6.0 | Datastar (SSE) | OpenAI Images API | Chancy | WeasyPrint | Stripe | DaisyUI | PostgreSQL | AWS S3
 
-* **AI Content Generation:** Multi-provider integration (OpenAI, Google Gemini) via PydanticAI for text and illustration generation with structured output validation
-* **Dual Commerce System:** SaaS subscriptions + e-commerce shop with Stripe, webhook automation, and Peecho print-on-demand API
-* **Real-time Architecture:** Server-Sent Events (SSE) for live job status, background job orchestration with cooperative cancellation
-* **Production Infrastructure:** AWS S3 multi-bucket storage, PostgreSQL, RESTful API (Django Ninja) with OpenAPI docs and rate limiting
+**Highlights:**
+- Full-stack solo build — 19 Django apps, 7 background job queues, 40+ reusable components
+- Zero JavaScript frameworks — real-time reactivity via Server-Sent Events (Datastar)
+- AI avatar pipeline with OpenAI Images API and iterative feedback loops
+- PDF generation with process isolation to solve OOM on 2GB workers
+- Print-on-demand fulfillment to 19+ countries with zone-based shipping
+- Bilingual (EN/ES), multi-currency (EUR/USD/GBP), Stripe subscriptions
 
-**Stack:** Django 6.0 • Python 3.13 • PostgreSQL • PydanticAI • Tailwind CSS 4 • AWS S3 • Stripe
+*Private codebase — collaborator access available for interviews.*
+
+---
+
+## Contact
+
+- Twitter: [@marcusalee_](https://twitter.com/marcusalee_)
