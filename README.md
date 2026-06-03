@@ -1,29 +1,10 @@
 # Hi! I'm Marcus
 
-## Full-Stack Python Engineer
+I am a Full-Stack Python Engineer and I build backend heavy web applications with a focus on hypermedia driven architecture.
 
-I build backend-heavy web applications with a focus on hypermedia-driven architecture — real-time UX without JavaScript frameworks.
+## Projects: 
 
----
-
-## Technology Stack
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, SQL, HTML, CSS |
-| **Framework** | Django 6.0 |
-| **APIs** | Django Ninja, Django REST Framework |
-| **Frontend** | Datastar, HTMX, DaisyUI, TailwindCSS |
-| **Components** | Django-Cotton |
-| **Background Jobs** | Chancy, Celery |
-| **Database** | PostgreSQL |
-| **Cloud** | AWS S3, Render |
-| **Payments** | Stripe |
-| **AI** | OpenAI Images API |
-
----
-
-## Featured Project: Bookids
+### Bookids
 
 www.bookids.io
 **Personalized children's books publishing platform** — parents upload a photo, choose a story, and receive a printed book with an illustrations of their child.
